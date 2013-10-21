@@ -25,7 +25,13 @@
             </imageobject>
         </mediaobject>
 	<para>y solo eso despues se arranca el cliente en modo red detectara la configuracion de red e iniciara la cuenta</para>
-	<para>la url es la siguiente: </para> 
+	<para>Al entrar como administrador realice el comando arp</para>
+	<mediaobject>
+			<imageobject>
+				<imagedata fileref="../img/arp.jpg" format="JPG"/>
+            </imageobject>
+        </mediaobject>
+	<para>la url es la siguiente:http://youtu.be/J-B5npDcgAQ</para> 
 </chapter>
 	
 	
