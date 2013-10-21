@@ -1,12 +1,13 @@
 <chapter>
 	<section><para>Lo primero que hice fue ir a la pagina oficial de LTSP y</para>
 	ltsp-install-ubuntu.png
+	<figure>
 	<mediaobject>
 			<imageobject>
 				<imagedata fileref="../img/ltsp-install-ubuntu.png" format="PNG"/>
             </imageobject>
         </mediaobject>
-		
+		</figure>
 		<para>Luego de terminar la instalacion coloque 2 tarjetas de red en la imagen de virtualbox 1 en modo puente para que la maquina tenga acceso
 		a internet y otra para la red interna y conectar los clientes ligeros.</para>
 		<figure>
