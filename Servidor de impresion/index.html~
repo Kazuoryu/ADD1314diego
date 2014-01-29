@@ -1,0 +1,36 @@
+<html>
+<head>
+	<title>T&iacute;tulo del trabajo</title>
+</head>
+<body align='center'>
+<div style='display:table-row; padding: 10px;'>
+  <div style='float: left; width=20%; padding:10px;'>
+  <img src='./files/logo.png'/>
+  </div>
+  <div style='float: left;padding:10px'>
+  <ul>
+    <li><b>M&oacute;dulo:</b> <i>Sistemas Operativos</i></li>
+    <li><b>T&iacute;tulo del trabajo</b> <i>Plantilla HTML entrega de trabajo</i></li>
+    <li><b>Componentes del grupo:</b> <i>Diego Gonzalez Abreu</i></li>
+    <li><b>Curso Acad&eacute;mico:</b> <i>2013/2014</i></li>
+    <li><b>Fecha de entrega:</b> <i>29 de Enero de 2014</i></li>
+  </ul>
+  </div>
+</div>
+<div style='float: clear;background-color: #eeeeee; border:2px solid; border-radius:10px; padding: 10px;'>
+<a href='#bloque1'>Instalacion</a> | <a href='#bloque2'>Bloque 2</a> | <a href='#final'>Conclusiones</a>
+</div>
+<h1><a id='bloque1'>Instalacion</a></h1>
+<p>Vamo a instalar PDF Creator para simular como si tuvieramos una imresora</p>
+<img src='./files/1-DESCARGA.png'/></br>
+<img src='./files/2-INSTALACION.png'/></br>
+<img src='./files/3.png'/></br>
+<img src='./files/4.png'/></br>
+<img src='./files/5.png'/></br>
+<img src='./files/6.png'/></br>
+<h1><a id='bloque2'>Bloque 2</a></h1>
+<p>Bla bla bla bla...</p>
+<h1><a id='final'>Conclusiones</a></h1>
+<p>Bla bla bla bla...</p>
+</body>
+</html>
